@@ -6,7 +6,7 @@ This project implements a machine learning classifier to predict whether rainfal
 ## Dataset
 The dataset contains historical weather data including features such as temperature, humidity, wind speed, pressure, and previous rainfall records. The target variable is a binary label indicating whether it rained on a given day.
 
-- Source: [Provide Dataset source or link if public]
+- Source: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/_0eYOqji3unP1tDNKWZMjg/weatherAUS-2.csv
 - Data format: CSV with features and target columns
 
 ## Features Used
