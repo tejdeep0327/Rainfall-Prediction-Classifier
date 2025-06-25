@@ -20,7 +20,5 @@ The dataset contains historical weather data including features such as temperat
 ## Models
 The project evaluates several classification algorithms such as:
 - Logistic Regression
-- Decision Tree Classifier
 - Random Forest Classifier
-- Support Vector Machine (SVM)
-- Gradient Boosting Machines (optional)
+
